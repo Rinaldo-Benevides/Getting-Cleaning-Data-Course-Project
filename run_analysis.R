@@ -39,7 +39,8 @@ run <- function() {
     
     tidyData <- data[, lapply(.SD, mean), by = .(subject,activity)]
     
-    write.csv(tidyData, "tydiData.csv")
+    #write.csv(tidyData, "tydiData.csv")
+    write.table(tidyData, "tydiData.txt",  row.name=FALSE)
     
     TRUE
 }
