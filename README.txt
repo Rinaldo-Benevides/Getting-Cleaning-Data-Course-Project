@@ -8,8 +8,14 @@ Operating Instructions
 
 3. Execute function: run()
 
-4. Result file: "tydiData.csv"
+4. Result file: "tydiData.txt"
 
 
 Package dependency: data.table
 To install data.table package: install.packages("data.table")
+
+
+
+More information
+
+All variables and descriptions are in CodeBook.md

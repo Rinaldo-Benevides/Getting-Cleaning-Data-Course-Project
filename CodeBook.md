@@ -23,7 +23,7 @@ The data linked to from the course website represent data collected from the acc
 * 1. Copy run_analysis.R to your work directory
 * 2. Load program: source("run_analysis.R")
 * 3. Execute function: run()
-* 4. Result file: "tydiData.csv"
+* 4. Result file: "tydiData.txt"
 
 
 ## Variables
@@ -31,7 +31,7 @@ The data linked to from the course website represent data collected from the acc
 
 ### Description
 
-The tidyData.csv contains the average of each variable analysed (all mean and standard deviation) for each activity and each subject.
+The tidyData.txt contains the average of each variable analysed (all mean and standard deviation) for each activity and each subject.
 
 
 ### Labels
