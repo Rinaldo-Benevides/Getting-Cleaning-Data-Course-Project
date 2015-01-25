@@ -1,5 +1,5 @@
 # Course Project Code Book
-=====
+
 
 The goal is to prepare tidy data that can be used for later analysis.
 
@@ -18,7 +18,7 @@ The data linked to from the course website represent data collected from the acc
 
 
 ## Instructions
-=====
+
 
 * 1. Copy run_analysis.R to your work directory
 * 2. Load program: source("run_analysis.R")
@@ -27,7 +27,7 @@ The data linked to from the course website represent data collected from the acc
 
 
 ## Variables
-=====
+
 
 ### Description
 
